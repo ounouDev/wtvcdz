@@ -1,0 +1,1523 @@
+[
+
+
+{
+  "name": "EL FADJR TV 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/130_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1NToyNCBQTSZoYXNoX3ZhbHVlPWo1OS9ZYlhLSTdIV0tNZE9wNWcxdkE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1NToyNCBQTSZoYXNoX3ZhbHVlPWo1OS9ZYlhLSTdIV0tNZE9wNWcxdkE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "EL FADJR TV 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/130_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1NToyNCBQTSZoYXNoX3ZhbHVlPWo1OS9ZYlhLSTdIV0tNZE9wNWcxdkE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1NToyNCBQTSZoYXNoX3ZhbHVlPWo1OS9ZYlhLSTdIV0tNZE9wNWcxdkE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "EL FADJR TV 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/130_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1NToyNCBQTSZoYXNoX3ZhbHVlPWo1OS9ZYlhLSTdIV0tNZE9wNWcxdkE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1NToyNCBQTSZoYXNoX3ZhbHVlPWo1OS9ZYlhLSTdIV0tNZE9wNWcxdkE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "El Djazair N1 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/139_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1Mzo0MiBQTSZoYXNoX3ZhbHVlPUNwVlBrbk1mbFV3dVBsK0MvRHFLZlE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1Mzo0MiBQTSZoYXNoX3ZhbHVlPUNwVlBrbk1mbFV3dVBsK0MvRHFLZlE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "El Djazair N1 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/139_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1Mzo0MiBQTSZoYXNoX3ZhbHVlPUNwVlBrbk1mbFV3dVBsK0MvRHFLZlE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1Mzo0MiBQTSZoYXNoX3ZhbHVlPUNwVlBrbk1mbFV3dVBsK0MvRHFLZlE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "El Djazair N1 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/139_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1Mzo0MiBQTSZoYXNoX3ZhbHVlPUNwVlBrbk1mbFV3dVBsK0MvRHFLZlE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1Mzo0MiBQTSZoYXNoX3ZhbHVlPUNwVlBrbk1mbFV3dVBsK0MvRHFLZlE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "ALANIS TV 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1MDozNyBQTSZoYXNoX3ZhbHVlPUhuU1p1ekFJeHZBYVA0OUVCOXpiNlE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1MDozNyBQTSZoYXNoX3ZhbHVlPUhuU1p1ekFJeHZBYVA0OUVCOXpiNlE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "ALANIS TV 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1MDozNyBQTSZoYXNoX3ZhbHVlPUhuU1p1ekFJeHZBYVA0OUVCOXpiNlE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1MDozNyBQTSZoYXNoX3ZhbHVlPUhuU1p1ekFJeHZBYVA0OUVCOXpiNlE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "ALANIS TV 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1MDozNyBQTSZoYXNoX3ZhbHVlPUhuU1p1ekFJeHZBYVA0OUVCOXpiNlE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo1MDozNyBQTSZoYXNoX3ZhbHVlPUhuU1p1ekFJeHZBYVA0OUVCOXpiNlE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Samira TV 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/10_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0ODo0OSBQTSZoYXNoX3ZhbHVlPWNQcjFnMnQ5RW1vWS82L0dGekhYbEE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0ODo0OSBQTSZoYXNoX3ZhbHVlPWNQcjFnMnQ5RW1vWS82L0dGekhYbEE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Samira TV 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/10_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0ODo0OSBQTSZoYXNoX3ZhbHVlPWNQcjFnMnQ5RW1vWS82L0dGekhYbEE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0ODo0OSBQTSZoYXNoX3ZhbHVlPWNQcjFnMnQ5RW1vWS82L0dGekhYbEE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Samira TV 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/10_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0ODo0OSBQTSZoYXNoX3ZhbHVlPWNQcjFnMnQ5RW1vWS82L0dGekhYbEE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0ODo0OSBQTSZoYXNoX3ZhbHVlPWNQcjFnMnQ5RW1vWS82L0dGekhYbEE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Lina TV 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/140_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Nzo1MSBQTSZoYXNoX3ZhbHVlPWRGZERvcGNqUUpzMFBSbWsyc3ZtTlE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Nzo1MSBQTSZoYXNoX3ZhbHVlPWRGZERvcGNqUUpzMFBSbWsyc3ZtTlE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Lina TV 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/140_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Nzo1MSBQTSZoYXNoX3ZhbHVlPWRGZERvcGNqUUpzMFBSbWsyc3ZtTlE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Nzo1MSBQTSZoYXNoX3ZhbHVlPWRGZERvcGNqUUpzMFBSbWsyc3ZtTlE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Lina TV 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/140_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Nzo1MSBQTSZoYXNoX3ZhbHVlPWRGZERvcGNqUUpzMFBSbWsyc3ZtTlE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Nzo1MSBQTSZoYXNoX3ZhbHVlPWRGZERvcGNqUUpzMFBSbWsyc3ZtTlE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "EL HAYAT TV 240p",
+  "logo":"https://hta.backoffice.easybroadcast.fr/channel/129_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MToxNyBQTSZoYXNoX3ZhbHVlPUFSd0NtK0FPRGpWQXRJdGMwZGg3TEE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MToxNyBQTSZoYXNoX3ZhbHVlPUFSd0NtK0FPRGpWQXRJdGMwZGg3TEE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "EL HAYAT TV 360p",
+  "logo":"https://hta.backoffice.easybroadcast.fr/channel/129_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MToxNyBQTSZoYXNoX3ZhbHVlPUFSd0NtK0FPRGpWQXRJdGMwZGg3TEE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MToxNyBQTSZoYXNoX3ZhbHVlPUFSd0NtK0FPRGpWQXRJdGMwZGg3TEE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "EL HAYAT TV 720p",
+  "logo":"https://hta.backoffice.easybroadcast.fr/channel/129_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MToxNyBQTSZoYXNoX3ZhbHVlPUFSd0NtK0FPRGpWQXRJdGMwZGg3TEE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MToxNyBQTSZoYXNoX3ZhbHVlPUFSd0NtK0FPRGpWQXRJdGMwZGg3TEE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "El Heddaf TV 240p ",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/15_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Mjo0NCBQTSZoYXNoX3ZhbHVlPVRTTXhhc3RoeDU2RHgzd21vTThiQ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Mjo0NCBQTSZoYXNoX3ZhbHVlPVRTTXhhc3RoeDU2RHgzd21vTThiQ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "El Heddaf TV TV 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/15_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Mjo0NCBQTSZoYXNoX3ZhbHVlPVRTTXhhc3RoeDU2RHgzd21vTThiQ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Mjo0NCBQTSZoYXNoX3ZhbHVlPVRTTXhhc3RoeDU2RHgzd21vTThiQ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "El Heddaf TV 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/15_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720pp/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Mjo0NCBQTSZoYXNoX3ZhbHVlPVRTTXhhc3RoeDU2RHgzd21vTThiQ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0Mjo0NCBQTSZoYXNoX3ZhbHVlPVRTTXhhc3RoeDU2RHgzd21vTThiQ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "BAHIA TV 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/123_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MDowMiBQTSZoYXNoX3ZhbHVlPUNhRE1pc0FGWTIyK3BPVGxZOXh2ZXc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MDowMiBQTSZoYXNoX3ZhbHVlPUNhRE1pc0FGWTIyK3BPVGxZOXh2ZXc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "BAHIA TV 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/123_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MDowMiBQTSZoYXNoX3ZhbHVlPUNhRE1pc0FGWTIyK3BPVGxZOXh2ZXc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MDowMiBQTSZoYXNoX3ZhbHVlPUNhRE1pc0FGWTIyK3BPVGxZOXh2ZXc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "BAHIA TV 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/123_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MDowMiBQTSZoYXNoX3ZhbHVlPUNhRE1pc0FGWTIyK3BPVGxZOXh2ZXc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjo0MDowMiBQTSZoYXNoX3ZhbHVlPUNhRE1pc0FGWTIyK3BPVGxZOXh2ZXc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "El Djazairia One 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/7_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjozNzo1NiBQTSZoYXNoX3ZhbHVlPUdvaDB2NG5zcmpvd0h0QVdzb3ZwcVE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjozNzo1NiBQTSZoYXNoX3ZhbHVlPUdvaDB2NG5zcmpvd0h0QVdzb3ZwcVE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "El Djazairia One 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/7_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjozNzo1NiBQTSZoYXNoX3ZhbHVlPUdvaDB2NG5zcmpvd0h0QVdzb3ZwcVE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjozNzo1NiBQTSZoYXNoX3ZhbHVlPUdvaDB2NG5zcmpvd0h0QVdzb3ZwcVE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "El Djazairia One 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/7_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjozNzo1NiBQTSZoYXNoX3ZhbHVlPUdvaDB2NG5zcmpvd0h0QVdzb3ZwcVE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjozNzo1NiBQTSZoYXNoX3ZhbHVlPUdvaDB2NG5zcmpvd0h0QVdzb3ZwcVE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Beur TV 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/3_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyODowNSBQTSZoYXNoX3ZhbHVlPXVGeW1TdkUxSEIxZ1QwL0w5c0FVZ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyODowNSBQTSZoYXNoX3ZhbHVlPXVGeW1TdkUxSEIxZ1QwL0w5c0FVZ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Beur TV 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/3_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyODowNSBQTSZoYXNoX3ZhbHVlPXVGeW1TdkUxSEIxZ1QwL0w5c0FVZ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyODowNSBQTSZoYXNoX3ZhbHVlPXVGeW1TdkUxSEIxZ1QwL0w5c0FVZ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Beur TV 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/3_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyODowNSBQTSZoYXNoX3ZhbHVlPXVGeW1TdkUxSEIxZ1QwL0w5c0FVZ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyODowNSBQTSZoYXNoX3ZhbHVlPXVGeW1TdkUxSEIxZ1QwL0w5c0FVZ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "EL BILAD 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/126_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNjo0MCBQTSZoYXNoX3ZhbHVlPWdwdGo2UW9vNlhTa0ZMdjYvOFJ6TFE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNjo0MCBQTSZoYXNoX3ZhbHVlPWdwdGo2UW9vNlhTa0ZMdjYvOFJ6TFE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "EL BILAD 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/126_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNjo0MCBQTSZoYXNoX3ZhbHVlPWdwdGo2UW9vNlhTa0ZMdjYvOFJ6TFE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNjo0MCBQTSZoYXNoX3ZhbHVlPWdwdGo2UW9vNlhTa0ZMdjYvOFJ6TFE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "EL BILAD 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/126_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNjo0MCBQTSZoYXNoX3ZhbHVlPWdwdGo2UW9vNlhTa0ZMdjYvOFJ6TFE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNjo0MCBQTSZoYXNoX3ZhbHVlPWdwdGo2UW9vNlhTa0ZMdjYvOFJ6TFE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "TV8 EDHAKIRA 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/141_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNDozMSBQTSZoYXNoX3ZhbHVlPTJZbkJMQnpWZVcyTDZDamNMVGlmNVE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNDozMSBQTSZoYXNoX3ZhbHVlPTJZbkJMQnpWZVcyTDZDamNMVGlmNVE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "TV8 EDHAKIRA 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/141_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNDozMSBQTSZoYXNoX3ZhbHVlPTJZbkJMQnpWZVcyTDZDamNMVGlmNVE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNDozMSBQTSZoYXNoX3ZhbHVlPTJZbkJMQnpWZVcyTDZDamNMVGlmNVE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "TV8 EDHAKIRA 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/141_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNDozMSBQTSZoYXNoX3ZhbHVlPTJZbkJMQnpWZVcyTDZDamNMVGlmNVE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyNDozMSBQTSZoYXNoX3ZhbHVlPTJZbkJMQnpWZVcyTDZDamNMVGlmNVE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "TV7 ELMAARIFA 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/138_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMjowNCBQTSZoYXNoX3ZhbHVlPVRDZ3VJZGliMDNFcFVSUVlWVllzamc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMjowNCBQTSZoYXNoX3ZhbHVlPVRDZ3VJZGliMDNFcFVSUVlWVllzamc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "TV7 ELMAARIFA 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/138_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMjowNCBQTSZoYXNoX3ZhbHVlPVRDZ3VJZGliMDNFcFVSUVlWVllzamc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMjowNCBQTSZoYXNoX3ZhbHVlPVRDZ3VJZGliMDNFcFVSUVlWVllzamc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "TV7 ELMAARIFA 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/138_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMjowNCBQTSZoYXNoX3ZhbHVlPVRDZ3VJZGliMDNFcFVSUVlWVllzamc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMjowNCBQTSZoYXNoX3ZhbHVlPVRDZ3VJZGliMDNFcFVSUVlWVllzamc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "ALGERIE TV 6 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/137_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMDowNiBQTSZoYXNoX3ZhbHVlPWhNdUNtZmRPSUxwL2RHa29tcXNkSHc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMDowNiBQTSZoYXNoX3ZhbHVlPWhNdUNtZmRPSUxwL2RHa29tcXNkSHc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "ALGERIE TV 6 360",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/137_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMDowNiBQTSZoYXNoX3ZhbHVlPWhNdUNtZmRPSUxwL2RHa29tcXNkSHc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMDowNiBQTSZoYXNoX3ZhbHVlPWhNdUNtZmRPSUxwL2RHa29tcXNkSHc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "ALGERIE TV 6 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/137_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMDowNiBQTSZoYXNoX3ZhbHVlPWhNdUNtZmRPSUxwL2RHa29tcXNkSHc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoyMDowNiBQTSZoYXNoX3ZhbHVlPWhNdUNtZmRPSUxwL2RHa29tcXNkSHc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Algerie TV 5 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/73_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoxNzoxOCBQTSZoYXNoX3ZhbHVlPVppWStWTU1FdDRWMnV4bVl2MkVuVVE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoxNzoxOCBQTSZoYXNoX3ZhbHVlPVppWStWTU1FdDRWMnV4bVl2MkVuVVE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Algerie TV 5 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/73_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoxNzoxOCBQTSZoYXNoX3ZhbHVlPVppWStWTU1FdDRWMnV4bVl2MkVuVVE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoxNzoxOCBQTSZoYXNoX3ZhbHVlPVppWStWTU1FdDRWMnV4bVl2MkVuVVE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Algerie TV 5 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/73_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoxNzoxOCBQTSZoYXNoX3ZhbHVlPVppWStWTU1FdDRWMnV4bVl2MkVuVVE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNjoxNzoxOCBQTSZoYXNoX3ZhbHVlPVppWStWTU1FdDRWMnV4bVl2MkVuVVE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Algerie TV 4 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/124_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNDowNTo1NyBQTSZoYXNoX3ZhbHVlPWF0WkszMStzNlp5S0NYcjhVekRhMnc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNDowNTo1NyBQTSZoYXNoX3ZhbHVlPWF0WkszMStzNlp5S0NYcjhVekRhMnc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Algerie TV 4 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/124_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNDowNTo1NyBQTSZoYXNoX3ZhbHVlPWF0WkszMStzNlp5S0NYcjhVekRhMnc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNDowNTo1NyBQTSZoYXNoX3ZhbHVlPWF0WkszMStzNlp5S0NYcjhVekRhMnc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Algerie TV 4 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/124_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNDowNTo1NyBQTSZoYXNoX3ZhbHVlPWF0WkszMStzNlp5S0NYcjhVekRhMnc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNDowNTo1NyBQTSZoYXNoX3ZhbHVlPWF0WkszMStzNlp5S0NYcjhVekRhMnc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Algérie 3 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/1_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Algérie 3 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/1_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Algérie 3 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/1_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Canal Algérie 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Canal Algérie 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "Canal Algérie 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTFVQmxNUFl0dDBqeXYrZWI1bUthUUE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "",
+    "name": "",
+    "url": null
+  }
+},
+{
+  "name": "ENTV 240p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/9_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo0NzoxNCBQTSZoYXNoX3ZhbHVlPXVsRXUxRW1WcE93OXJESDcyTnExWGc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo0NzoxNCBQTSZoYXNoX3ZhbHVlPXVsRXUxRW1WcE93OXJESDcyTnExWGc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "entv.dz",
+    "name": "entv TV",
+    "url": null
+  }
+},
+{
+  "name": "ENTV 360p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/9_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo0NzoxNCBQTSZoYXNoX3ZhbHVlPXVsRXUxRW1WcE93OXJESDcyTnExWGc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo0NzoxNCBQTSZoYXNoX3ZhbHVlPXVsRXUxRW1WcE93OXJESDcyTnExWGc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "entv.dz",
+    "name": "entv TV",
+    "url": null
+  }
+},
+{
+  "name": "ENTV 720p",
+  "logo": "https://hta.backoffice.easybroadcast.fr/channel/9_picture.png",
+  "url": "https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo0NzoxNCBQTSZoYXNoX3ZhbHVlPXVsRXUxRW1WcE93OXJESDcyTnExWGc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwMzo0NzoxNCBQTSZoYXNoX3ZhbHVlPXVsRXUxRW1WcE93OXJESDcyTnExWGc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+  "category": "",
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "dz",
+      "name": "Algeria"
+    }
+  ],
+  "tvg": {
+    "id": "entv.dz",
+    "name": "entv TV",
+    "url": null
+  }
+},
+{
+    "name": "Ennahar TV 240p",
+    "logo": "https://hta.backoffice.easybroadcast.fr/channel/8_picture.png",
+    "url": "https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyMzo0OCBQTSZoYXNoX3ZhbHVlPXhBTXRRL01GUDFhVllqbHh1THkrMGc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyMzo0OCBQTSZoYXNoX3ZhbHVlPXhBTXRRL01GUDFhVllqbHh1THkrMGc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+    "category": null,
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ],
+    "tvg": {
+      "id": "EnnaharTV.dz",
+      "name": "Ennahar TV",
+      "url": null
+    }
+  },
+  {
+    "name": "Ennahar TV 360p",
+    "logo": "https://hta.backoffice.easybroadcast.fr/channel/8_picture.png",
+    "url": "https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyMzo0OCBQTSZoYXNoX3ZhbHVlPXhBTXRRL01GUDFhVllqbHh1THkrMGc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyMzo0OCBQTSZoYXNoX3ZhbHVlPXhBTXRRL01GUDFhVllqbHh1THkrMGc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+    "category": null,
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ],
+    "tvg": {
+      "id": "EnnaharTV.dz",
+      "name": "Ennahar TV",
+      "url": null
+    }
+  },
+  {
+    "name": "Ennahar TV 720p",
+    "logo": "https://hta.backoffice.easybroadcast.fr/channel/8_picture.png",
+    "url": "https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyMzo0OCBQTSZoYXNoX3ZhbHVlPXhBTXRRL01GUDFhVllqbHh1THkrMGc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyMzo0OCBQTSZoYXNoX3ZhbHVlPXhBTXRRL01GUDFhVllqbHh1THkrMGc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+    "category": null,
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ],
+    "tvg": {
+      "id": "EnnaharTV.dz",
+      "name": "Ennahar TV",
+      "url": null
+    }
+  },
+  {
+    "name": "Echorouk News 240p",
+    "logo": "https://hta.backoffice.easybroadcast.fr/channel/18_picture.png",
+    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODowMyBQTSZoYXNoX3ZhbHVlPUFJaHRWZWFxaUF1MVdIYTk5QTRMVmc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODowMyBQTSZoYXNoX3ZhbHVlPUFJaHRWZWFxaUF1MVdIYTk5QTRMVmc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+    "category": "News",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ],
+    "tvg": {
+      "id": "EchoroukNews.dz",
+      "name": "Echorouk News",
+      "url": null
+    }
+  },
+  {
+    "name": "Echorouk News 360p",
+    "logo": "https://hta.backoffice.easybroadcast.fr/channel/18_picture.png",
+    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODowMyBQTSZoYXNoX3ZhbHVlPUFJaHRWZWFxaUF1MVdIYTk5QTRMVmc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODowMyBQTSZoYXNoX3ZhbHVlPUFJaHRWZWFxaUF1MVdIYTk5QTRMVmc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+    "category": "News",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ],
+    "tvg": {
+      "id": "EchoroukNews.dz",
+      "name": "Echorouk News",
+      "url": null
+    }
+  },
+  {
+    "name": "Echorouk News 720p",
+    "logo": "https://hta.backoffice.easybroadcast.fr/channel/18_picture.png",
+    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODowMyBQTSZoYXNoX3ZhbHVlPUFJaHRWZWFxaUF1MVdIYTk5QTRMVmc9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODowMyBQTSZoYXNoX3ZhbHVlPUFJaHRWZWFxaUF1MVdIYTk5QTRMVmc9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+    "category": "News",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ],
+    "tvg": {
+      "id": "EchoroukNews.dz",
+      "name": "Echorouk News",
+      "url": null
+    }
+  },
+  {
+    "name": "Echorouk TV 240p",
+    "logo": "https://hta.backoffice.easybroadcast.fr/channel/6_picture.png",
+    "url": "https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODozMiBQTSZoYXNoX3ZhbHVlPXZzVU9kUlNMY2REMmMycm8xYXYyREE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODozMiBQTSZoYXNoX3ZhbHVlPXZzVU9kUlNMY2REMmMycm8xYXYyREE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+    "category": null,
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ],
+    "tvg": {
+      "id": "EchoroukTV.dz",
+      "name": "Echorouk TV",
+      "url": null
+    }
+  },
+  {
+    "name": "Echorouk TV 360p",
+    "logo": "https://hta.backoffice.easybroadcast.fr/channel/6_picture.png",
+    "url": "https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODozMiBQTSZoYXNoX3ZhbHVlPXZzVU9kUlNMY2REMmMycm8xYXYyREE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODozMiBQTSZoYXNoX3ZhbHVlPXZzVU9kUlNMY2REMmMycm8xYXYyREE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+    "category": null,
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ],
+    "tvg": {
+      "id": "EchoroukTV.dz",
+      "name": "Echorouk TV",
+      "url": null
+    }
+  },
+  {
+    "name": "Echorouk TV 720p",
+    "logo": "https://hta.backoffice.easybroadcast.fr/channel/6_picture.png",
+    "url": "https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODozMiBQTSZoYXNoX3ZhbHVlPXZzVU9kUlNMY2REMmMycm8xYXYyREE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMTUvMjAyMSAwNzoyODozMiBQTSZoYXNoX3ZhbHVlPXZzVU9kUlNMY2REMmMycm8xYXYyREE9PSZ2YWxpZG1pbnV0ZXM9MTA=",
+    "category": null,
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ],
+    "tvg": {
+      "id": "EchoroukTV.dz",
+      "name": "Echorouk TV",
+      "url": null
+    }
+  }
+
+]
